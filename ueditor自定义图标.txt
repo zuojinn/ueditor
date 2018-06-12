@@ -1,0 +1,17 @@
+//实现插件的功能代码
+// var editorThis; 
+// baidu.editor.commands['showmsg'] = { 
+// execCommand: function() { 
+//     selectImg('',2,'');
+//     editorThis = this;
+//     }, 
+// queryCommandState: function() {
+    
+//  } };
+// function productSelectImg(data){
+//         var html='';
+//     $.each(data,function(i,d){
+//         html +='<img src="'+d+'" />'
+//     })
+//     editorThis.execCommand('insertHtml', html); return true;
+// }
